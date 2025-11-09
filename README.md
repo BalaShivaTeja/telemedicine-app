@@ -1,5 +1,14 @@
 # Telemedicine Appointment System
 
+## 🌐 Live Demo
+
+**Try it now:** [https://balashivateja.github.io/telemedicine-app/demo.html](https://balashivateja.github.io/telemedicine-app/demo.html)
+
+A fully functional demo with beautiful UI - no installation required! Book appointments and see them saved instantly using browser localStorage.
+
+---
+
+
 A full-stack telemedicine appointment booking system built with React.js frontend and Node.js/Express backend.
 
 ## Features
